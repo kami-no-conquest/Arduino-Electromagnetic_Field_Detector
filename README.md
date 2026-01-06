@@ -1,4 +1,4 @@
-# Analog LED Level Meter – My First Arduino Project
+# EM Field Detector – My First Arduino Project
 
 This is my very first Arduino project! I wrote this while learning the basics of reading analog inputs and controlling LEDs. It's simple and messy but it taught me about:
 
